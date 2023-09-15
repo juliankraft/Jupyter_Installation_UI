@@ -43,14 +43,7 @@ R -e "install.packages('ggplot2', repos='http://cran.us.r-project.org')"
 ```
 
 ```bash
-R -e "install.packages(
-        'pak',
-        repos = sprintf('https://r-lib.github.io/p/pak/stable/%s/%s/%s',
-        .Platform$pkgType,
-        R.Version()$os,
-        R.Version()$arch),
-        clean = TRUE
-    )"
+R -e "install.packages('pak', repos = sprintf('https://r-lib.github.io/p/pak/stable/%s/%s/%s', .Platform$pkgType, R.Version()$os, R.Version()$arch), clean = TRUE)"
 ```
 
 Falls ihr bis hier gekommen seid ohne Fehlermeldungen solltet ihr eigentlich fertig sein und könnt das CMD schliessen.<br> Wenn ihr nun Jupyter starten wollt, müsst ihr jeweils im CMD (NICHT als Administrator ausführen) folgenden Befehl eingeben:
