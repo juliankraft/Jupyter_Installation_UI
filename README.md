@@ -4,10 +4,10 @@ In diesem Repository findet ihr die Anleitung zur Installation der notwendigen S
 
 ## Installation
 
-Folgt dem entsprechenden Link zu eurer Anleitung:
+Folgt dem entsprechenden Link zu eurer Anleitung:<br>
 [Windows](https://github.com/juliankraft/Jupyter_Installation_UI/blob/main/Anleitung_Windows.md)<br>
 [Mac](https://github.com/juliankraft/Jupyter_Installation_UI/blob/main/Anleitung_OSX.md)
 
 ## Hilfe zur Selbsthilfe
 
-schaut mal hier vorbei...
+schaut mal [hier](https://github.com/juliankraft/Jupyter_Installation_UI/blob/main/selbsthilfe.md) vorbei...
