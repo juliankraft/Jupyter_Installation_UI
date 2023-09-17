@@ -31,7 +31,7 @@ R -e "IRkernel::installspec(user = FALSE)"
 ```
 
 ```bash
-R -e "install.packages('ggplot2', repos='http://cran.us.r-project.org')"
+R -e "install.packages('tidyverse', repos='http://cran.us.r-project.org')"
 ```
 
 ```bash
