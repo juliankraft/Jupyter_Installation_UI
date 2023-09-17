@@ -31,7 +31,7 @@ install.packages('IRkernel', repos='http://cran.us.r-project.org')
 q()
 ```
 ```bash
-sudo R -e "install.packages('IRkernel', repos='http://cran.us.r-project.org')"
+sudo R -e "IRkernel::installspec(user = FALSE)"
 ```
 Tippe nun dein Mac Passwort ein (es ist nicht sichtbar das du schreibst)
 
