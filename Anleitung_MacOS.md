@@ -61,3 +61,34 @@ jupyter lab
 ```
 
 Es sollte sich automatisch ein Browser öffnen.
+
+
+
+## Mach dir das Leben einfach
+
+
+1. Lege dir einen Ordner mit dem Namen "jupyter" in deinem Dokumente Ordner an.
+2. Kopiere dir den Pfad zu diesem Ordner in die Zwischenablage (Rechtsklick auf den Ordner - Informationen , dann den Ort kopieren) + /NameOrdner<br>
+beispiel: /Users/meggie/Documents/jupyter
+3. Öffne das Terminal
+Schreibe cd dann drücke Leertaste und kopiere den Pfad von Schritt 2 hinein. Drücke nun enter<br>
+
+beispiel: cd /Users/meggie/Documents/jupyter
+
+3. tippe ins Terminal nun folgende Schritte ein
+touch pfad.sh
+  ```bash
+   touch pfad.sh
+   ```
+   ```bash
+   vim pfad.sh
+   ```
+  nun öffnet sich ein Fenster drücke die Taste i<br>
+  füge nun deinen Pfad so hinen. (unten nur beispiel)<br>
+```bash
+   cd /Users/dein_Name/Documents/jupyter
+    jupyter lab
+```
+drücke dann die esc Taste<br>
+dann schreibe :wq! und drücke enter
+
