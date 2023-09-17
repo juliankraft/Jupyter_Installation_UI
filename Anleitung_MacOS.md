@@ -76,12 +76,9 @@ Schreibe cd dann drücke Leertaste und kopiere den Pfad von Schritt 2 hinein. Dr
 beispiel: cd /Users/meggie/Documents/jupyter
 
 3. tippe ins Terminal nun folgende Schritte ein
-touch pfad.sh
-  ```bash
-   touch pfad.sh
-   ```
+
    ```bash
-   vim pfad.sh
+   vim pfad.command
    ```
   nun öffnet sich ein Fenster drücke die Taste i<br>
   füge nun deinen Pfad so hinen. (unten nur beispiel)<br>
@@ -89,6 +86,11 @@ touch pfad.sh
    cd /Users/dein_Name/Documents/jupyter
     jupyter lab
 ```
+
 drücke dann die esc Taste<br>
-dann schreibe :wq! und drücke enter
+dann schreibe :wq! und drücke enter<br>
+chmod 755 pfad.command<br>
+
+probiere dies nun aus. Drücke auf die erstellte Datei.
+
 
