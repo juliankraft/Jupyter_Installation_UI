@@ -51,3 +51,14 @@ Falls ihr bis hier gekommen seid ohne Fehlermeldungen solltet ihr eigentlich fer
 ```bash
 jupyter lab
 ```
+
+## Freiwilliger Zusatz: <br> Startdatei mit hinterlegtem Ordner einrichten
+1. Lege dir einen Ordner mit dem Namen "Jupyter" in deinem Dokumente Ordner an.
+2. Kopiere dir den Pfad zu diesem Ordner in die Zwischenablage (Rechtsklick auf den Ordner -> als Pfad kopieren)
+3. Öffne den Editor (Notepad) und füge folgenden Text ein: <br>
+    ```
+    cd C:\Users\deinBenutzername\Dokumente\Jupyter (dein Pfad einsetzen)
+    jupyter lab
+    ```
+4. Speichere die Datei als "Jupyter.bat" in deinem Jupyter Ordner ab. Wichtig ist, dass du bei "Dateityp" "Alle Dateien" auswählst und nicht "Textdatei".<br>
+5. Klicke auf die Datei um Jupyter zu starten. Wenn du möchtest kannst du dir auch ein Icon auf deinen Desktop legen. Dazu klickst du mit der rechten Maustaste auf die Datei und wählst "Verknüpfung erstellen". Diese kannst du dann auf deinen Desktop ziehen.
