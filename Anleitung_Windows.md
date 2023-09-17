@@ -16,7 +16,7 @@ Im CMD gebt ihr nun den Befehl unten ein und drückt Enter (stimmt der Pfad mit 
 ```bash
 setx PATH "%PATH%;C:\Program Files\R\R-4.3.1"
 ```
-Nun müsst ihr das CMD schließen und neu öffnen - wieder als Administrator. Führt folgende Befehle der Reihe nach aus - es kann jeweils eine Weile dauern...
+Dass diese Änderung wirksam ist musst du CMD schließen und neu öffnen - wieder als Administrator. Führt folgende Befehle der Reihe nach aus - es kann jeweils eine Weile dauern...
 
 ```bash
 pip install jupyterlab
@@ -53,6 +53,8 @@ jupyter lab
 ```
 
 ## Freiwilliger Zusatz: <br> Startdatei mit hinterlegtem Ordner einrichten
+
+Der Vorteil dabei ist, dass du nicht jedes mal CMD öffnen musst um Jupyter zu starten und du direkt in deinem Jupyter Ordner bist. <br>
 1. Lege dir einen Ordner mit dem Namen "Jupyter" in deinem Dokumente Ordner an.
 2. Kopiere dir den Pfad zu diesem Ordner in die Zwischenablage (Rechtsklick auf den Ordner -> als Pfad kopieren)
 3. Öffne den Editor (Notepad) und füge folgenden Text ein: <br>
