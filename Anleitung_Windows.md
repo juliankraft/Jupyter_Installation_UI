@@ -17,7 +17,7 @@ In eurem Download Ordner müsste nun die Datei "R-4.3.1-win.exe" sein. Klickt mi
 Im CMD gebt ihr nun den Befehl unten ein und drückt Enter (stimmt der Pfad mit der R Installation überein? Copy paste hilft...):
 
     ```bash
-    setx PATH "%PATH%;C:\Program Files\R\R-4.3.1"
+    setx PATH "%PATH%;C:\Program Files\R\R-4.3.1\bin"
     ```
 4. Dass diese Änderung wirksam ist musst du CMD schließen und neu öffnen - wieder als Administrator. Führt folgende Befehle der Reihe nach aus - es kann jeweils eine Weile dauern...
 
