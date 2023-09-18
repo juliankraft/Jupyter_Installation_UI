@@ -1,6 +1,6 @@
 ## zum Anfang
 
-In diesem Repository findet ihr die Anleitung zur Installation der notwendigen Software für die Vorlesung Informatik. Es ist wichtig, dass ihr die Schritte der Reihenfolge nach und exakt so ausführt. Schliesst euch dazu am Besten in kleinen Gruppen mit dem gleichen Betriebssystem (Windows oder Mac) zusammen. Es ist einfacher für euch, euch gegenseitig zu helfen und einfacher für uns, euch dabei zu unterstützen.
+In diesem Repository findet ihr die Anleitung zur Installation der notwendigen Software für die Vorlesung Informatik. Es ist wichtig, dass ihr die Schritte der Reihenfolge nach und exakt so ausführt. Es ist wirklich wichtig, dass ihr die Terminal-Befehle exakt so eingebt, wie sie hier stehen. Am besten nutzt ihr CopyPaste.
 
 ## Installation
 
@@ -10,4 +10,4 @@ Folgt dem entsprechenden Link zu eurer Anleitung:<br>
 
 ## Hilfe zur Selbsthilfe
 
-schaut mal [hier](https://github.com/juliankraft/Jupyter_Installation_UI/blob/main/selbsthilfe.md) vorbei...
+schaut mal [hier](https://github.com/juliankraft/Jupyter_Installation_UI/blob/main/selbsthilfe.md) vorbei für ein paar Tips zum Problemlösen ganz allgemein.

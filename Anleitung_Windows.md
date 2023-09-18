@@ -59,11 +59,10 @@ Im CMD gebt ihr nun den Befehl unten ein und drückt Enter (stimmt der Pfad mit 
 
 Der Vorteil dabei ist, dass du nicht jedes mal CMD öffnen musst um Jupyter zu starten und du direkt in deinem Jupyter Ordner bist. <br>
 1. Lege dir einen Ordner mit dem Namen "Jupyter" in deinem Dokumente Ordner an.
-2. Kopiere dir den Pfad zu diesem Ordner in die Zwischenablage (Rechtsklick auf den Ordner -> als Pfad kopieren)
-3. Öffne den Editor (Notepad) und füge folgenden Text ein: <br>
+2. Öffne den Editor Notepad (gib Notepad im Suchfenster ein)
+3. Ihr seid gleich in einem leeren Dokument. Auf die erste Zeile schreibt ihr:
     ```
-    cd C:\Users\deinBenutzername\Dokumente\Jupyter (dein Pfad einsetzen)
     jupyter lab
     ```
-4. Speichere die Datei als "Jupyter.bat" in deinem Jupyter Ordner ab. Wichtig ist, dass du bei "Dateityp" "Alle Dateien" auswählst und nicht "Textdatei".<br>
+4. Speichere die Datei als "Jupyter.bat" in deinem neuen Jupyter Ordner ab.<br> **!!! Wichtig ist, dass du bei "Dateityp" "Alle Dateien" auswählst und nicht "Textdatei"**.<br>
 5. Klicke auf die Datei um Jupyter zu starten. Wenn du möchtest kannst du dir auch ein Icon auf deinen Desktop legen. Dazu klickst du mit der rechten Maustaste auf die Datei und wählst "Verknüpfung erstellen". Diese kannst du dann auf deinen Desktop ziehen.
