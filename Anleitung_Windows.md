@@ -1,14 +1,18 @@
 ## Jupyter Lab
 
-Diesen [Python](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe) installer herunterladen und installieren. Dabei müssen folgende Einstellungen gewählt sein:<br>
+1. Den Python Installer herunterladen: <br>
+[download Python](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe)<br>
+In eurem Download Ordner sollte nun die Datei "python-3.11.5-amd64.exe" sein. Klickt mit der rechten Maustaste da drauf und führt sie als Administrator aus. Achtung! Hier wird es das erste mal knifflig. Die Settings für die Installation unbedingt wie unten auf den Bildern anwählen<br>
+
 
 <img src="images/w_img01.png" alt="Instruction" width="60%">
+<img src="images/w_img02.png" alt="Instruction" width="60%">
 <br>
 So weit so gut!
 <br><br>
 
 Danach diesen [R-Language](https://cran.r-project.org/bin/windows/base/R-4.3.1-win.exe) Installer herunterladen und installieren. Lasst überall die standard Einstellungen. Falls der Pfad bei euch nicht der gleiche ist wie der im Bild unten müsst ihr den kopieren um den nächsten Befehl anpassen zu können:<br>
-<img src="images/w_img02.png" alt="Instruction" width="60%">
+<img src="images/w_img03.png" alt="Instruction" width="60%">
 
 Wenn die Installation abgeschlossen ist müsst ihr CMD als Administrator öffnen. Dazu gebt ihr im Suchfenster cmd ein und klickt mit der rechten Maustaste auf das CMD Symbol und wählt "Als Administrator ausführen". Falls du dich fragst was cmd ist - es ist ein Programm, das es ermöglicht den Computer durch die Eingabe von Text zu steuern.<br>
 Im CMD gebt ihr nun den Befehl unten ein und drückt Enter (stimmt der Pfad mit der R Installation überein? Copy paste hilft...):
