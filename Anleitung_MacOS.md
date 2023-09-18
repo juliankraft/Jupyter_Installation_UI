@@ -46,6 +46,9 @@ R
 install.packages('ggplot2', repos='http://cran.us.r-project.org')
 ```
 ```bash
+install.packages('tidyverse', repos='http://cran.us.r-project.org')
+```
+```bash
 install.packages('devtools', repos='http://cran.us.r-project.org')
 ```
 ```bash
