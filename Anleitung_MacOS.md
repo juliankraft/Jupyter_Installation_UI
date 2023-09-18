@@ -18,7 +18,7 @@ Führe das Programm aus klicke auf weiter und akzeptieren. Es sollte automatisch
 
 ### Jupyterlab einrichten
 ```bash
-pip install jupyterlab
+pip3.11 install jupyterlab
 ```
 ```bash
 R
