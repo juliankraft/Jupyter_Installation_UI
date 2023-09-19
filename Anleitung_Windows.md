@@ -4,10 +4,9 @@
 [download Python](https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe)<br>
 In eurem Download Ordner sollte nun die Datei "python-3.11.5-amd64.exe" sein. Klickt mit der rechten Maustaste da drauf und führt sie als Administrator aus. Achtung! Hier wird es das erste mal knifflig. Die Settings für die Installation unbedingt wie unten auf den Bildern anwählen<br>
 <img src="images/w_img01.png" alt="Instruction1" width="60%">
-<img src="images/w_img02.png" alt="Instruction2" width="60%">
-<br>
+<img src="images/w_img02.png" alt="Instruction2" width="60%"><br>
 So weit so gut!
-<br>
+
 2. Den R-Language Installer herunterladen: <br>
 [download R](https://cran.r-project.org/bin/windows/base/R-4.3.1-win.exe)<br>
 In eurem Download Ordner müsste nun die Datei "R-4.3.1-win.exe" sein. Klickt mit der rechten Maustaste da drauf und führt sie als Administrator aus. Die Settings könnt ihr lassen, wie sie sind. Vergleicht aber den Pfad eurer Installation mit dem unten auf dem Bild. Falls der nicht gleich ist, müsst ihr den Befehl unter Punkt 3 entsprechend anpassen.<br>
