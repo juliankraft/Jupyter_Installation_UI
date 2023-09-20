@@ -54,8 +54,19 @@ Falls dich die vielen nutzlosen Ordner im Explorer stressen, kannst du die Einst
 
 ## Erneute Installation von Python
 
-zurück zur Anleitung für die Installation
+zurück zur Anleitung für die Installation - [link](https://github.com/juliankraft/Jupyter_Installation_UI/blob/main/Anleitung_Windows.md)
 
+Installiere bitte Python genau nach dieser Anleitung und beachte dabei die Administratorrechte.
 
+Nach der Python installation musst du wieder eine Administrator Konsole aufmachen und da folgende Befehle ausführen:
 
-
+```bash
+pip install jupyterlab
+```
+```bash
+R -e "IRkernel::installspec(user = FALSE)"
+```
+```bash
+jupyter lab
+```
+Der letzte Befehl sollte das Jupyter Lab starten. Falls dies klappt - super! Wenn nicht dan meldet ihr euch halt wieder...
