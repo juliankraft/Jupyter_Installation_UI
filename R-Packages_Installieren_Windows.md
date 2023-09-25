@@ -9,3 +9,5 @@ Ihr habt 3 Möglichkeiten ein Packet zu installieren wobei ich euch die 3. empfe
 2. Ihr öffnet das CMD als Administrator und gebt `R` ein. Nun seid ihr in einer R Konsole mit Administratorrecht da gebt ihr ein: `install.packages("tidyverse")`. Und wählt eine Quelle für den Download aus.
 
 3. Ihr öffnet das CMD als Administrator und führt dort folgenden Befehl aus:<br> `R -e "install.packages('tidyverse', repos='https://stat.ethz.ch/CRAN//')"`.
+
+Das wars auch schon. Nun könnt ihr auch tidyverse verwenden.
