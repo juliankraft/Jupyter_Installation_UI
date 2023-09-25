@@ -1,4 +1,4 @@
-# Anleitung zur Installation von R-Packages
+# Anleitung zur Installation von R-Packages unter Windows
 
 Da ihr R als Administratoren installiert habt, habt ihr keinen uneingeschränkten Zugriff auf die library. Das heisst, dass ihr nicht einfach mit `install.packages("package")` ein Package installieren könnt. Ihr müsst das als Administrator machen.
 
